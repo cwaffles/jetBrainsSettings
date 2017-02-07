@@ -1,0 +1,14 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="Diff.SelectedChange" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+</keymap>
