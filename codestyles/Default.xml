@@ -16,6 +16,8 @@
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
     <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
     <option name="BLOCK_BRACE_PLACEMENT" value="2" />
+    <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
   </Objective-C>
   <Objective-C-extensions>
     <file>
@@ -51,6 +53,7 @@
   <codeStyleSettings language="ObjectiveC">
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
