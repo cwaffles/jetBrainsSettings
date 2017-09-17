@@ -18,6 +18,7 @@
     <option name="BLOCK_BRACE_PLACEMENT" value="2" />
     <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+    <option name="INTRODUCE_CONST_VARS" value="true" />
   </Objective-C>
   <Objective-C-extensions>
     <file>
