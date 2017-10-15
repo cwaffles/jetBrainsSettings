@@ -11,7 +11,6 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <Objective-C>
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
     <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
