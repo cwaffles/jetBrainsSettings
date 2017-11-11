@@ -3,20 +3,73 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/UBC/CPSC313/assn/3/code/life.c" timestamp="1510363202472">
-        <mark key="[" line="51" column="90" />
+      <file name="$USER_HOME$/school/UBC/CPSC313/assn/3/README.txt" timestamp="1510365385663">
+        <mark key="'" line="18" column="35" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/school/UBC/CPSC313/assn/3/code/life.c" timestamp="1510364198842">
+        <mark key="[" line="51" column="60" />
+        <mark key="]" line="51" column="59" />
+        <mark key="." line="51" column="59" />
+        <mark key="^" line="51" column="59" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="18" column="35" filename="$USER_HOME$/school/UBC/CPSC313/assn/3/README.txt" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text>improve temporal and spatial locality because it is an assembly optimized loop that uses fewer instructions
+-temporal locality is increased because it is a loop, and the instruction is less likely to be evicted
+-spatial locality is increased because it is more likely our next instruction will be on the same cache line</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">LXRlbXBvcmFsIGxvY2FsaXR5IGltcHJvdmVkIHRocm91Z2ggbGVmdCBhbmQgcmlnaHQgY2VsbHMgd2lsbCBiZSBvbiB0aGUgc2FtZSBjYWNoZSBsaW5lIGFuZCB3aWxsIGJlIGFjY2Vzc2VkIHNob3J0bHkgYWZ0ZXIK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LXRlbXBvcmFsIGxvY2FsaXR5IGltcHJvdmVkIHRocm91Z2ggbGVmdCBhbmQgcmlnaHQgY2VsbHMgd2lsbCBiZSBvbiB0aGUgc2FtZSBjYWNoZSBsaW5lIGFuZCB3aWxsIGJlIGFjY2Vzc2VkIHNob3J0bHkgYWZ0ZXIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">RAo=</text>
+      </register>
+      <register name="3" type="8">
+        <text />
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aW1wcm92ZSB0ZW1wb3JhbCBhbmQgc3BhdGlhbCBsb2NhbGl0eQoJLy8gYmVjYXVzZSBpdCBpcyBhbiBhc3NlbWJseSBvcHRpbWl6ZWQgbG9vcCB0aGF0IHVzZXMgZmV3ZXIgaW5zdHJ1Y3Rpb25zCgkvL3RlbXBvcmFsIGxvY2FsaXR5IGlzIGluY3JlYXNlZCBiZWNhdXNlIGl0IGlzIGEgbG9vcCwgYW5kIHRoZSBpbnN0cnVjdGlvbiBpcyBsZXNzIGxpa2VseSB0byBiZSBldmljdGVkCgkvL3NwYXRpYWwgbG9jYWxpdHkgaXMgaW5jcmVhc2VkIGJlY2F1c2UgaXQgaXMgbW9yZSBsaWtlbHkgb3VyIG5leHQgaW5zdHJ1Y3Rpb24gd2lsbCBiZSBvbiB0aGUgc2FtZSBjYWNoZSBsaW5lCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWJ6ZXJvKG5ld1dvcmxkLCBOICogTiAqIHNpemVvZihsb25nKSk7IC8vY2hhbmdlICMxIGJ6ZXJvIHRvIDppbXByb3ZlIHRlbXBvcmFsIGFuZCBzcGF0aWFsIGxvY2FsaXR5Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2lmZGVmIFVTRQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWJ6ZXJvKG5ld1dvcmxkLCBOICogTiAqIHNpemVvZihsb25nKSk7IC8vY2hhbmdlICMxIGJ6ZXJvIHRvIGltcHJvdmUgdGVtcG9yYWwgYW5kIHNwYXRpYWwgbG9jYWxpdHkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>l and spatial locality</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>i</entry>
+        <entry>a</entry>
+        <entry>v</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
