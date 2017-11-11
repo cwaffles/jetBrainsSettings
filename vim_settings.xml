@@ -2,7 +2,11 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/school/UBC/CPSC313/assn/3/code/life.c" timestamp="1510363202472">
+        <mark key="[" line="51" column="90" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
@@ -10,6 +14,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
